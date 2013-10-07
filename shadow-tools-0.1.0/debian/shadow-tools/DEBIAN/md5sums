@@ -1,0 +1,10 @@
+9a87bc7ccfafd4a4745dc18297d6ffab  usr/bin/shadow-tools
+52e5bc99dc64b90c79864beefc8ca3e1  usr/share/applications/shadow-tools.desktop
+5304e61188f13ecac1de70f4bd2a5002  usr/share/doc/shadow-tools/CHANGES.txt
+b272b775f01ad62e8cb1d7522ab57892  usr/share/doc/shadow-tools/LICENSE.txt
+9fae1d6221756c9b5fd5accdab7d8d8d  usr/share/doc/shadow-tools/README.txt
+9a25ac27d71ded6a48e8f6265b47ba19  usr/share/doc/shadow-tools/changelog
+1de062cc5b89aa7d798e1de0b0acf2e7  usr/share/doc/shadow-tools/copyright
+c7774d7ea642d4e02d9449067cdfe9db  usr/share/icons/shadow-tools.png
+e82431896010ad44a3581b98802b61ff  usr/share/pyshared/shadow-tools/images/icon-window.png
+b8d3bbb2da1cd189e2186bdc3a17c323  usr/share/pyshared/shadow-tools/shadow_tools_ui.py

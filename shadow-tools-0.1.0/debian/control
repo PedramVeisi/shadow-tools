@@ -1,0 +1,15 @@
+Source: shadow-tools
+Section: devel
+Priority: optional
+Maintainer: Pedram Veisi<pedramveisi@gmail.com>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.2
+#Homepage: <insert the upstream URL, if relevant>
+#Vcs-Git: git://git.debian.org/collab-maint/shadowtools.git
+#Vcs-Browser: http://git.debian.org/?p=collab-maint/shadowtools.git;a=summary
+
+Package: shadow-tools
+Architecture: any
+Depends: python, python-qt4
+Description: Simple app for editing passwords in /etc/shadow
+ If you need ShadowTools, you probably know how to use it!

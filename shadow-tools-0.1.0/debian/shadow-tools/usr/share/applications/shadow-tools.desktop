@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Version=0.1.0
+Name=Shadow Tools
+Comment=A simple tool for editing shadow file.
+Icon=shadow-tools
+Exec=gksu python /usr/bin/shadow-tools
+Categories=System;
+NotShowIn=KDE	
+
